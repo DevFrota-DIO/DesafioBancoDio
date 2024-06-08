@@ -1,6 +1,6 @@
-# Desafio Banco Dio
+# Desafio Java.Principal Dio
 
-##### Criando um Banco Digital com Java e Orientação a Objetos
+##### Criando um Java.Principal Digital com Java e Orientação a Objetos
 
 - Sob orientação do especialista  [**Venilton FalvoJr**](https://www.linkedin.com/in/falvojr/), Tech Lead, Digital Innovation One.
 
